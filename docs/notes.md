@@ -7,3 +7,4 @@ Notes and usage details for awesome-historical-maps.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps

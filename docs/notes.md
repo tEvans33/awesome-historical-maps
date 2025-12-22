@@ -19,3 +19,4 @@ Notes and usage details for awesome-historical-maps.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- add a note about the defaults

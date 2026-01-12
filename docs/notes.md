@@ -23,3 +23,4 @@ Notes and usage details for awesome-historical-maps.
 - clarify the setup steps
 - link the usage section
 - add a note about the defaults
+- add a note about the defaults

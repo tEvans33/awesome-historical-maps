@@ -25,3 +25,4 @@ Notes and usage details for awesome-historical-maps.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps

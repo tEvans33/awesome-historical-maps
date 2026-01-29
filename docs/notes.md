@@ -32,3 +32,4 @@ Notes and usage details for awesome-historical-maps.
 - clarify the setup steps
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue

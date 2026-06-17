@@ -51,3 +51,4 @@ export const VERSION = "0.1.0";
 // guard against empty input
 // drop an unused branch
 // clarify the control flow
+// keep defaults in sync with the manifest
